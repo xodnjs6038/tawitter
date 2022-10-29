@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tawitter/static/css/main.40e76367.css",
-    "main.js": "/tawitter/static/js/main.b6018036.js",
+    "main.js": "/tawitter/static/js/main.5a6ef51a.js",
     "index.html": "/tawitter/index.html",
     "main.40e76367.css.map": "/tawitter/static/css/main.40e76367.css.map",
-    "main.b6018036.js.map": "/tawitter/static/js/main.b6018036.js.map"
+    "main.5a6ef51a.js.map": "/tawitter/static/js/main.5a6ef51a.js.map"
   },
   "entrypoints": [
     "static/css/main.40e76367.css",
-    "static/js/main.b6018036.js"
+    "static/js/main.5a6ef51a.js"
   ]
 }
